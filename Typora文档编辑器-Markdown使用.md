@@ -4,13 +4,13 @@
 
 *本教程 自己手动敲了 一遍学习 教程，教程 来自[Simple-Markdown-Guide](https://gihub.com/Melo618/Simple-Markdown-Guide)。
 
-*本教程使用[Typrora]([Typora — a markdown editor, markdown reader.](https://www.typora.io/))编辑器，一个 非常好用的编辑器。
+*本教程使用[Typrora]([Typora — a markdown editor, markdown reader.](https://www.typora.io/))编辑器，一个非常好用的编辑器。
 
 ## 基本
 
-* Markdown是一种用来写作的轻量级标记语言
+* Markdown是一种用来写作的轻量级标记语言。
 * 用于标记语法，代替常见的排版格式。
-* 兼容HTML代码
+* 兼容HTML代码。
 * 特殊字符自动转换，例如`<`和`&`
 
 
